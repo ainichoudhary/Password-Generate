@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container{
+  background-color:cadetblue;
+}
+.row{
+  padding: 45px;
+}
+.card{
+  margin: 15px;
+}
+.card-header{
+  padding: 20px;
+}
+.input-group{
+  padding: 10px;
+  font-size: 20px;
+}
+.form-control{
+  width :220px;
+  height:34px
+}
